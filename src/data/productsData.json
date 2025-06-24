@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "CDX Headphones",
+    "price": 59.99,
+    "image": "/cdx.jpg",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Nike Air",
+    "price": 79.99,
+    "image": "/nike-air.jpg",
+    "category": "Fashion"
+  },
+  {
+    "id": 3,
+    "name": "TWC Watch",
+    "price": 120.00,
+    "image": "/twc.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 4,
+    "name": "Bitcoin",
+    "price": 120000.00,
+    "image": "/btc.jpg",
+    "category": "Tokens"
+  },
+  {
+    "id": 5,
+    "name": "Ethereum",
+    "price": 2500.00,
+    "image": "/eth.jpg",
+    "category": "Tokens"
+  },
+  {
+    "id": 6,
+    "name": "Solana",
+    "price": 160.00,
+    "image": "/sol.jpg",
+    "category": "Tokens"
+  },
+  {
+    "id": 7,
+    "name": "Spin Airforce One",
+    "price": 95.00,
+    "image": "/spin-air.jpg",
+    "category": "Fashion"
+  },
+  {
+    "id": 8,
+    "name": "Track-Suit",
+    "price": 55.00,
+    "image": "/tracksuit.jpg",
+    "category": "Fashion"
+  }
+]
