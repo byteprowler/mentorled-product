@@ -52,7 +52,7 @@ export default function CategoryFilter({ categories, activeCategory, onSelect }:
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <div className="relative w-48">
+    <div className="relative w-full">
       <motion.button
         onClick={() => setIsOpen(!isOpen)}
         className="flex items-center justify-between w-full px-4 py-3 rounded-lg bg-white border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
